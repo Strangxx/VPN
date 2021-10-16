@@ -1,0 +1,1 @@
+shadowsocks=89.187.163.211:49338, method=aes-256-gcm, password=5tumuBXBwxBvd4MjWYdZdeUX, fast-open=false, udp-relay=false, tag=🇸🇬 ➤ 𝗦𝗶𝗻𝗴𝗮𝗽𝗼𝗿𝗲
